@@ -10,5 +10,5 @@ Movie Titles Dataset: movie titles data
 ## Installation
 Clone the repository:
 
-`git clone https://github.com/From-Kishore-Kumar/Movie_Recommendation_System.git`
-`cd Movie_Recommendation_System` `
+`git clone https://github.com/From-Kishore-Kumar/Movie_Recommendation_System.git
+ cd Movie_Recommendation_System` `
